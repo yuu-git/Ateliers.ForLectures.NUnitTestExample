@@ -1,0 +1,9 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs
+/Src/Ateliers.ForLectures.NUnitTestExample/bin/Debug/netcoreapp3.1
+/Src/Ateliers.ForLectures.NUnitTestExample/obj
+/Src/Ateliers.ForLectures.NUnitTestExample.Tests/bin/Debug/netcoreapp3.1
+/Src/Ateliers.ForLectures.NUnitTestExample.Tests/obj
